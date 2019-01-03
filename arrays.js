@@ -46,3 +46,6 @@ function removeElementFromEndOfArray(array) {
 
 var items = [1, 2, 3, 4, 5];
 var first = items.slice(0, 2);
+console.log(first);
+var second = items.slice(3);
+console.log(second);
